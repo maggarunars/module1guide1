@@ -1,0 +1,28 @@
+html{background-color: rgb(214, 205, 173);}
+
+h2{font-family: monospace; text-align: center;
+}
+
+p{
+    color: black;
+    font-size: large;
+    font-family: monospace;
+    text-align: center; }
+  
+.yo{
+    color: black;
+    font-size: 100px;
+    font-family: monospace;
+    background-color:#EDDB9A;
+    text-align: center;}
+
+div{ 
+  text-align: center;}
+
+figcaption {
+font-family: monospace;}
+
+h3{font-family: monospace;
+  text-align: center;}
+ 
+/*þetta er css komment*/ 
